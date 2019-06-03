@@ -1,4 +1,4 @@
-Love It! 1.0.0
+Love It! 1.0.1
 ==============
 
 Requires Yootil: https://www.proboards.com/library/plugins/item/38
